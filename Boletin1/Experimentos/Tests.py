@@ -1,0 +1,6 @@
+cliente = input("Nombre del cliente: ")
+empresa = input("Nombre de la empresa: ")
+fecha = input ("Fecha: ")
+servicio = input ("Servicio prestado: ")
+importe = input("Importe: ")
+vencimiento = input("Vencimiento: ")
